@@ -1,0 +1,240 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+section{
+    
+    margin-top: 0px;
+}
+.line{
+    background-color: red;
+}
+.head{
+    display: flex;
+    
+}
+
+.image{
+    margin-left: 20px;
+    
+}
+span{
+    font-size: 50px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 250px;
+    margin-top: 30px;
+    
+}
+.container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10px;
+    margin-top: 10px;
+    margin-left: 30px;
+    
+}
+
+.container h1 {
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin-top: 250px;
+    color: white;
+    display: flex;
+    
+}    
+.container p {
+    align-items: center;
+    justify-content: center;
+    color: white;
+    display: flex;
+    
+}
+.container a{
+    text-decoration: none;
+}
+
+.container :hover{
+    color: red
+    
+}
+
+.bg-1{
+    
+    background-image: url(India_PM_Narendra_Modi-2.webp);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.bg-1:hover{
+    transform: scale(0.95);
+    cursor: pointer;
+}
+.bg-2{
+    background-image: url(2.webp);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-2:hover{
+    transform: scale(0.95);
+    cursor: pointer;
+}
+
+.bg-3{
+    background-image: url(3.webp);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-3:hover{
+    transform: scale(0.95);
+    cursor: pointer;
+}
+.bg-4{
+    background-image: url(4.webp);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-4:hover{
+    transform: scale(0.95);
+    cursor: pointer;
+}
+.bg-5{
+    background-image: url(5.jpg);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    
+}
+.bg-5:hover{
+    transform: scale(0.95);
+    cursor: pointer;
+}
+.bg-6{
+    background-image: url(6.jpg);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-6:hover{
+    transform: scale(0.95);
+    cursor: pointer;
+}
+.bg-7{
+    background-image: url(7.webp);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-7:hover{
+    transform: scale(0.95);
+    cursor: pointer;
+}
+.bg-8{
+    background-image: url(8.jpg);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-8:hover{
+    transform: scale(0.95);
+    cursor: pointer;
+}
+.bg-9{
+    background-image: url(9.jpg);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.bg-9:hover{
+    transform: scale(0.95);
+    cursor: pointer;
+}
+.bg-10{
+    background-image: url(10.jpg);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-10:hover{
+    transform: scale(0.95);
+    cursor: pointer;
+}
+.bg-11{
+    background-image: url(11.jpg);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-11:hover{
+    transform: scale(0.95);
+    cursor: pointer;
+}
+.bg-12{
+    background-image: url(12.webp);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-12:hover{
+    transform: scale(0.95);
+    cursor: pointer;
+}
+.bg-13{
+    background-image: url(er.jpg);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-13:hover{
+    transform: scale(0.95);
+    cursor: pointer;
+}
+.bg-14{
+    background-image: url(tt.jpg);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-14:hover{
+    transform: scale(0.95);
+    cursor: pointer;
+}
+.bg-15{
+    background-image: url(uu.jpg);
+    width: 400px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bg-15:hover{
+    transform: scale(0.95);
+    cursor: pointer;
+}
+
+
+
+
